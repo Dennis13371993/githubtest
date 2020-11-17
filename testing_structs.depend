@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605205110 source:c:\users\danis\onedrive\datalogi\c-programmering\testing_structs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605216192 source:c:\users\danis\desktop\testing_structs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
